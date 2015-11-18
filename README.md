@@ -1,4 +1,4 @@
-# `SEF`
+# SEF
 
 SEF is a simple event flow framework with a flexible data model.
 
